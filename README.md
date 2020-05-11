@@ -15,3 +15,6 @@ When complete, you'll be able to grab random quotes from the command line, like 
 ## Start the Tutorial
 
 You can find your next step in [this repo's issues](../../issues/)!
+
+Learn Bekow ↓
+![](learn.png)
